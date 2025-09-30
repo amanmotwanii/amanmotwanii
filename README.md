@@ -10,7 +10,9 @@
 
 - **Design:** Figma, Adobe XD, Photoshop
 - **Frontend:** HTML, CSS, Javascript, React
-- **Cloud:** AWS, Azure
+- **Programming Language:** Python, C++, Java
+- **Database:** MySQL
+- **Cloud:** AWS
 
 ---
 
