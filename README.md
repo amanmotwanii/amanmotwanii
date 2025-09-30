@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋, I'm Aman Motwani
+
+**Creative Director & UI/UX Designer | Frontend Enthusiast | Cloud Explorer**
+
+🚀 Building user-friendly experiences and beautiful interfaces.
+
+---
+
+### 🔧 Skills
+
+- **Design:** Figma, Adobe XD, Photoshop
+- **Frontend:** HTML, CSS, Javascript, React
+- **Cloud:** AWS, Azure
+
+---
+
+### 📂 Featured Projects
+
+- [🌐 Portfolio](https://amanmotwani.vercel.app/) — My personal showcase and design playground.
+- [💧 Smart Water Website (Hydr8)](https://hydr8.vercel.app/) — Modern UI for better hydration awareness.
+- [🧭 Cospace Finder](https://github.com/amanmotwanii/Co-Space) — Find and compare co-working spaces with ease.
+  <!-- Replace # with your Cospace Finder project link if available -->
+
+Explore more in my pinned repos:
+- [hydr8](https://github.com/amanmotwanii/hydr8)
+- [personal-portfolio](https://github.com/amanmotwanii/personal-portfolio)
+- [Resume_ATS_Builder](https://github.com/amanmotwanii/Resume_ATS_Builder)
+
+---
+
+### 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/amanmotwani1/)
+- amanmotwani28@gmail.com
+
+---
 
 <!--
-**amanmotwanii/amanmotwanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨ Always experimenting with new ideas, tools, and design trends.
+Let’s connect and build something awesome together!
 -->
