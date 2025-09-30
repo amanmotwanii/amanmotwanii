@@ -22,8 +22,8 @@
   <!-- Replace # with your Cospace Finder project link if available -->
 
 Explore more in my pinned repos:
-- [hydr8](https://github.com/amanmotwanii/hydr8)
-- [personal-portfolio](https://github.com/amanmotwanii/personal-portfolio)
+- [Hydr8](https://github.com/amanmotwanii/hydr8)
+- [Personal Portfolio](https://github.com/amanmotwanii/personal-portfolio)
 - [Resume_ATS_Builder](https://github.com/amanmotwanii/Resume_ATS_Builder)
 
 ---
